@@ -1,4 +1,4 @@
-document.write( '<div id=\"dugagc\" style=\"width:autopx; height:autopx; text-align:left; display:scroll;position:fixed; bottom:0px;left:0px;\">\n' );
+document.write( '<div id=\"dugagc\" style=\"width:autopx; height:autopx; z-index:99; text-align:left; display:scroll;position:fixed; bottom:0px;left:0px;\">\n' );
 document.write( '    <div>\n' );
 document.write( '        <a href=\"#\" id=\"close-teaser\" onclick=\"document.getElementById(\'dugagc\').style.display = \'none\';\" style=\"cursor:pointer;\">\n' );
 document.write( '            <center>\n' );
